@@ -1,3 +1,4 @@
+"use strict";
 // const searchName = (value: string | null) => {
 //     if (value === null) {
 //         console.log('nothing');
@@ -5,9 +6,7 @@
 //         console.log('Searching...');
 //     }
 // }
-
 // // searchName(null)
-
 // const getCarSpeed = (speed: unknown) => {
 //     if (typeof speed === 'number') {
 //         const convertedSpeed = (speed * 1000) / 3600;
@@ -21,11 +20,9 @@
 //         console.log('there is wrong type')
 //     }
 // }
-
 // getCarSpeed(10);
 // getCarSpeed('10 knh^-1')
 // getCarSpeed(true)
-
 // function throwError(message: string): never {
 //     throw new Error(message);
 // }

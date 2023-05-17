@@ -1,3 +1,4 @@
+"use strict";
 // const user: {
 //     //  readonly   company: string,
 //     company: 'Programming hero', //litarel type
